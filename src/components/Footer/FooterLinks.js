@@ -1,3 +1,4 @@
+import './Footer.css'
 function Links (){
     return <ul className="footer_links">
         <li className="hiyah_container"><a href='paul.bunda3@gmail.com'>Email</a></li>

@@ -1,7 +1,7 @@
 import './App.css';
 import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
-import Main from './components/index'
+import Main from './components/default'
 import projects from './data/projects.json'
 function App() {
   console.log(projects)
@@ -11,7 +11,7 @@ function App() {
       <Header/>
       <Main projects={projects.projects}/>
       <Footer/>
-      </div>
+    </div>
   );
 }
 

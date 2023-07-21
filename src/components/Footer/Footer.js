@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = (props) => {
 
     //The Components Returned JSX
-    return <div className="footer_containter">
+    return <div className="footer_container">
         <p>Contact me here!</p>
         <p><Links /></p>
     </div>

@@ -1,3 +1,4 @@
+import './Header.css'
 // the component function
 const Header = (props) => {
     //The Components Returned JSX

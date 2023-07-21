@@ -1,8 +1,6 @@
 .projects_container{
     display: flex;
     justify-content: space-around;
-    background-color: rgba(173, 216, 230, 0.7);
-    border-radius: 5%;
 }
 .project_container{
     list-style: none;

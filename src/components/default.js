@@ -1,10 +1,10 @@
 import Projects from './Projects/Projects'
-import './index.css'
+import './default.css'
 // the component function
 const Main = (props) => {
 
     //The Components Returned JSX
-    return <div className="main"> 
+    return <div className="default"> 
         <Projects projects={props.projects}/>
     </div>
 }
