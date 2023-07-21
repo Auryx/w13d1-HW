@@ -1,8 +1,13 @@
 .footer_container{
     background-color: rgba(173, 216, 230, 0.7);
+    border-radius: 5%;
+    grid-area: 5 / 2 / 6 / 6;
+    display: flex;
+    justify-content: space-around;
 }
 .hiyah_container{
     display: flex;
     width: 10vw;
     list-style: none;
+    
 }
