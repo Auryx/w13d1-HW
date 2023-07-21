@@ -1,0 +1,8 @@
+.footer_container{
+    height: 500rem;
+}
+.hiyah_container{
+    display: flex;
+    width: 10vw;
+    list-style: none;
+}

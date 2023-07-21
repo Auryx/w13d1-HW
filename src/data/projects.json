@@ -1,0 +1,14 @@
+{
+    "projects":[
+        {
+            "name": "SpellHelp",
+            "gitLink": "https://github.com/Auryx/SEIRKALE-Project2",
+            "deployLink": "https://project2-dp73.onrender.com/"
+        },
+        {
+            "name": "MyMTGCards",
+            "gitLink": "https://github.com/Auryx/SEIRKALE-Project1",
+            "deployLink": "https://www.dnd5eapi.co/"
+        }
+    ]
+}
